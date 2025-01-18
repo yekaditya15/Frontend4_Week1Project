@@ -1,4 +1,4 @@
-# Frontend3 Module Test Project
+# Frontend4 Week 1 Project
 
 This is a cryptocurrency dashboard application built using React. The app fetches real-time data of top cryptocurrencies from the CoinGecko API, allowing users to search, filter, and sort the cryptocurrencies based on market cap or 24-hour price change percentage.
 
